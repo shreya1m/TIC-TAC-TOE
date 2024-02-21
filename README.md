@@ -6,11 +6,11 @@ A simple console-based Tic Tac Toe game implemented in Java.
 ## How to Run
 
 ### Compile the Java file:
-   javac TicTacToe.java
+   javac tictactoe.java
 
 ### Run the compiled program:
 
-- java TicTacToe
+- java tictactoe
 - Follow the on-screen instructions to play the game.
 
 ### Features
