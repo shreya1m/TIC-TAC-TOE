@@ -6,7 +6,6 @@ A simple console-based Tic Tac Toe game implemented in Java.
 ## How to Run
 
 ### Compile the Java file:
-   ```bash
    javac TicTacToe.java
 
 ### Run the compiled program:
