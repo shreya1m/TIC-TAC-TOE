@@ -1,36 +1,20 @@
 
-### Tic Tac Toe
+# Tic Tac Toe (Java)
 
-```markdown
-# Tic Tac Toe
+A simple console-based Tic Tac Toe game implemented in Java.
 
-A simple Tic Tac Toe game where two players take turns choosing X or O for specific box numbers.
+## How to Run
 
-## How to Play
+### Compile the Java file:
+   ```bash
+   javac TicTacToe.java
 
-1. Open the HTML file in your web browser to start the game.
-2. Two players take turns selecting X or O for specific box numbers.
-3. The game determines the winner or declares a draw.
+### Run the compiled program:
 
-## Technologies Used
+- java TicTacToe
+- Follow the on-screen instructions to play the game.
 
-- HTML
-- CSS
-- JavaScript
+### Features
+- Two-Player Game: Play against a friend, taking turns choosing X or O.
+- Console-Based: Simple text-based interface for classic gameplay.
 
-## Features
-
-- **Two-Player Game:** Play against a friend, taking turns choosing X or O.
-- **Simple and Intuitive:** Easy-to-understand rules for a classic game.
-
-## Try it Yourself
-
-Open the HTML file in your web browser and start playing.
-
-## Contributing
-
-Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
